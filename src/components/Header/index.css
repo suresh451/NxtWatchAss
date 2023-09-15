@@ -1,0 +1,18 @@
+.header-logo {
+    width: 100px;
+}
+.header-profile {
+    width: 40px;
+}
+.inner-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.header-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}

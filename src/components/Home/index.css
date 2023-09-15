@@ -1,0 +1,30 @@
+.ul-list {
+    list-style-type: none;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+}
+.conatct-img {
+    width: 40px;
+}
+.conatct-img-div {
+    display: flex;
+    flex-direction: row;
+}
+.home-sidediv {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 200px;
+    height: 100vh;
+    padding: 10px;
+}
+.home-div {
+    display: flex;
+    flex-direction: row;
+}
+.banner-div {
+    background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
+    height: 100vh;
+    background-size: cover;
+}

@@ -1,0 +1,20 @@
+.login-form-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-top: 30px;
+    box-shadow: black;
+
+}
+.login-button {
+    color: #ffffff;
+    background-color: blue;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.error-message {
+    color: red;
+}
